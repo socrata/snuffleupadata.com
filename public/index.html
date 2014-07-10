@@ -2,10 +2,26 @@
   <head>
     <link rel="stylesheet" type="text/css" charset="iso-8859-1" href="stylesheets/snuffleupadata.css" />
     <title>snuffleupadata</title>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascript"></script>
   </head>
   <body>
     <div id="fullcenter">
-      <a href="http://en.wikipedia.org/wiki/Aloysius_Snuffleupagus"><img src="img/snuffleupadata.gif" alt="snuffleupadata" /></a>
+      <a href="http://dev.socrata.com"><img id="snu" src="/img/snu.png" alt="snuffleupadata" /></a>
     </div>
+
+    <script class="text/javacript">
+      window.setInterval(function(){
+        var snus = [
+          "/img/geek.png",
+          "/img/ndoch.png",
+          "/img/sassy.png",
+          "/img/snu.png",
+          "/img/dev.png"
+        ];
+
+        var pick = snus[Math.floor(Math.random() * snus.length)];
+        $("#snu").attr("src", pick);
+      }, 8000);
+    </script>
   </body>
 </html>
