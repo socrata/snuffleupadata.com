@@ -1,0 +1,17 @@
+destination: public
+exclude: [Gemfile, Gemfile.lock, .ruby-version, .ruby-gemset, public]
+
+ga_tracking_code: "UA-9046230-3"
+
+subsite: dev
+title: snuffleupadata
+icon: fa fa-code
+github_repo: https://github.com/chrismetcalf/snufflupadata.com
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-mentions
+
+# Offline mode plugin
+offline: false
