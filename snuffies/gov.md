@@ -1,9 +1,10 @@
 ---
-layout: snuffie
+layout: default
 title: Founding Father
 img: /img/gov.png
 img_thumb: /img/gov_thumb.png
+type: snuffie
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dictum augue ac lorem malesuada at rhoncus turpis condimentum. Maecenas commodo sem ac magna posuere ultrices. Proin ut felis ac odio consectetur rutrum vel quis sem.
+Nothing says US Government quite like the Washington Powdered Wig. And Socrata loves the Government! Founding Snuffy says that better then no one else.
 

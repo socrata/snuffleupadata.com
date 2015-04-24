@@ -1,9 +1,10 @@
 ---
-layout: snuffie
+layout: default
 title: Gettin' sassy!
 img: /img/sassy.png
 img_thumb: /img/sassy_thumb.png
+type: snuffie
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dictum augue ac lorem malesuada at rhoncus turpis condimentum. Maecenas commodo sem ac magna posuere ultrices. Proin ut felis ac odio consectetur rutrum vel quis sem.
+Snuffy has a fun side, apparently that's his left side. Go head and get sassy with it Snuffy!
 
