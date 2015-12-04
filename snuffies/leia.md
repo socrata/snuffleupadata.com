@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leia Orsnuna
+title: Leia Organa
 img: /img/leia.png
 img_thumb: /img/leia_thumb.png
 type: snuffie
