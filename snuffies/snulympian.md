@@ -2,7 +2,7 @@
 layout: default 
 title: Snu-lympian
 img: /img/snulympian.png
-img_thumg: /img/snulympian_thumb.png
+img_thumb: /img/snulympian_thumb.png
 type: snuffie
 ---
 
