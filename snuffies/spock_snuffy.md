@@ -2,7 +2,7 @@
 layout: default
 title: Spock
 img: /img/spock.png
-img_thumb: /img/spock_thumg.png
+img_thumb: /img/spock_thumb.png
 type: snuffie
 ---
 
