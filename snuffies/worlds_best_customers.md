@@ -2,7 +2,7 @@
 layout: default
 title: World's Best Customers!
 img: /img/worldsbest.png
-img_thumb: /img/worldsbest_thumb.png
+img_thumb: /img/worldsbest_thumb2.png
 type: snuffie
 ---
 
