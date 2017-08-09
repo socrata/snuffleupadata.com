@@ -2,7 +2,7 @@
 layout: default
 title: Snuffiam Wallace
 img: /img/snuffiamwallace.png
-img_thumb: /snuffiamwallace_thumb.png
+img_thumb: /img/snuffiamwallace_thumb.png
 type: snuffie
 ---
 
