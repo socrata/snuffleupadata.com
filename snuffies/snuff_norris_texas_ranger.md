@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Snuff Norris: Texas Ranger
+title: Snuff Norris - Texas Ranger
 img: /img/texasranger.png
 img_thumb: /img/texasranger_thumb.png
 type: snuffie
