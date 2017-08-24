@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Captain Snu: 2017 Employee Summit
+title: Captain Snu - 2017 Employee Summit
 img: /img/captain.png
 img_thumb: /img/captain_thumb.png
 type: snuffie
