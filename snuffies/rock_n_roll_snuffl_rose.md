@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rock 'n Roll: Snuffl Rose
+title: Rock 'n Roll - Snuffl Rose
 img: /img/snufflrose.png
 img_thumb: /img/snufflrose_thumb.png
 type: snuffie

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rock 'n Roll: Kurt Snubain
+title: Rock 'n Roll - Kurt Snubain
 img: /img/kurtsnubain.png
 img_thumb: /img/kurtsnubain_thumb.png
 type: snuffie

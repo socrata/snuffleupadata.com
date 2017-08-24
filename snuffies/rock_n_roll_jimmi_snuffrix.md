@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rock ’n Roll: Jimmi Snuffrix
+title: Rock ’n Roll - Jimmi Snuffrix
 img: /img/jimmisnuffrix.png
 img_thumb: /img/jimmisnuffrix_thumb.png
 type: snuffie

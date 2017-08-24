@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rock 'n Roll: Snuffy Lauper
+title: Rock 'n Roll - Snuffy Lauper
 img: /img/snuffylauper.png
 img_thumb: /img/snuffylauper_thumb.png
 type: snuffie
