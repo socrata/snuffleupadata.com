@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sunff's Got Pride!
+title: Snuff's Got Pride!
 img: /img/pride.png
 img_thumb: /img/pride_thumb.png
 type: snuffie
