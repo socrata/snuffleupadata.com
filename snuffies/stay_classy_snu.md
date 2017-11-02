@@ -1,7 +1,7 @@
 layout: default
 title: Stay Classy Snu
 img: /img/stayclassysnu.png
-img_thumb: /img/tayclassysnu_thumb.png
+img_thumb: /img/stayclassysnu_thumb.png
 type: snuffie
 
 ---
