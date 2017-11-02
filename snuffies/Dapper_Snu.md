@@ -1,6 +1,6 @@
 layout: default
 title: Dapper Snu
-img: /img/dappersnu.png
+img: /img/dappersnu.png 
 img_thumb: /img/dappersnu_thumb.png
 type: snuffie
 
