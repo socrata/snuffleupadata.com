@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transportation Snus: Meet Cabbie Snu!
+title: Transportation Snus - Meet Cabbie Snu!
 img: /img/cabbie.png
 img_thumb: /img/cabbie_thumb.png
 type: snuffie

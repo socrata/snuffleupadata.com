@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transportation Snus: Meet Metro Driver Snuffy!
+title: Transportation Snus - Meet Metro Driver Snuffy!
 img: /img/metrodriver.png
 img_thumb: /img/metrodriver_thumb.png
 type: snuffie

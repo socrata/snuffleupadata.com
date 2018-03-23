@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transportation Snus: Meet Cyclist Snu!
+title: Transportation Snus - Meet Cyclist Snu!
 img: /img/cyclistsnu.png
 img_thumb: /img/cyclistsnu_thumb.png
 type: snuffie

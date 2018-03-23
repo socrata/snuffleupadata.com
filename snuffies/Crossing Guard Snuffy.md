@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transportation Snus: Meet Crossing Guard Snuffy!
+title: Transportation Snus - Meet Crossing Guard Snuffy!
 img: /img/crossingguard.png
 img_thumb: /img/crossingguard_thumb.png
 type: snuffie

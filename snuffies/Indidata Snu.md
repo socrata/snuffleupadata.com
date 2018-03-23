@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Indidata Snu: Socrata Employee Summit 2018
+title: Indidata Snu - Socrata Employee Summit 2018
 img: /img/indidata.png
 img_thumb: /img/indidata_thumb.png
 type: snuffies
