@@ -71,6 +71,12 @@ h1.title em {
 h2.slogan {
   text-align: center;
 }
+p,li {
+  font-family: 'Nobile', Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
+  line-height: 1.7em;
+  background: rgba(255, 255, 255, 0.77);
+}
 
 body {
   font-family: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif;
