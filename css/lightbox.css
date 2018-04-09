@@ -3,6 +3,11 @@ body:after {
   content: url(../img/close.png) url(../img/loading.gif) url(../img/prev.png) url(../img/next.png);
   display: none;
 }
+p,li
+  font-family: 'Nobile', Helvetica, Arial, sans-serif
+  font-size: 1.2em
+  line-height: 1.7em
+  background: rgba(255, 255, 255, 0.77)
 
 .lightboxOverlay {
   position: absolute;
