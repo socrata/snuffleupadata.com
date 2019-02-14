@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Sailor Snu
-img: /img/SailorSnu.png
-img_thumb: /img/SailorSnu_thumb.png
+img: /img/sailorsnu.png
+img_thumb: /img/sailorsnu_thumb.png
 type: snuffie
 ---
 
