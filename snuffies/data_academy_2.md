@@ -6,4 +6,4 @@ img_thumb: /img/data_academy_2_thumb.png
 type: snuffie
 ---
 
-Data Academy needs you! With Data Academy Snu leading the way, government employees will be more efficient, impactful, and happy in their day-to-day work.
+Data Academy needs you! With Data Academy Snu leading the way, government employees will be more efficient, impactful, and happy in their day-to-day work. Empower your team to make data-driven decisions with Data Acedemy. 
