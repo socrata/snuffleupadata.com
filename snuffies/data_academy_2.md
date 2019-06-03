@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Data Academy Snu
-img: /img/dataacademy2.png
-img_thumb: /img/dataacademy2_thumb.png
+img: /img/data_academy_2.png
+img_thumb: /img/data_academy_2_thumb.png
 type: snuffie
 ---
 
