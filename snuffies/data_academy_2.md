@@ -1,0 +1,9 @@
+---
+layout: default
+title: Data Academy Snu
+img: /img/dataacademy2.png
+img_thumb: /img/dataacademy2_thumb.png
+type: snuffie
+---
+
+Data Academy needs you! With Data Academy Snu leading the way, government employees will be more efficient, impactful, and happy in their day-to-day work.
