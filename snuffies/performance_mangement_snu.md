@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 
-img: /img/performancemanagementsnu.png
-img_thumb: /img/performancemanagementsnu_thumb.png
+title: Performance Management Snu
+img: /img/performance_management_snu.png
+img_thumb: /img/performance_management_snu_thumb.png
 type: snuffie
 ---
 
