@@ -6,4 +6,4 @@ img_thumb: /img/tylersnu_thumb.png
 type: snuffie
 ---
 
-Socrata has joined Tyler Technologies to accelerate data-driven innovation in government and Tyler’s #ConnectedCommunities vision. Snu is very excited to join the Tyler Team! 
+Socrata joined Tyler Technologies in 2018 to accelerate data-driven innovation in government and Tyler’s #ConnectedCommunities vision. 
