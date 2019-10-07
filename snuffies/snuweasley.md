@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Snu Weasley
-img: /img/snueweasley.png
-img_thumb: /img/snueweasley_thumb.png
+img: /img/snuweasley.png
+img_thumb: /img/snuweasley_thumb.png
 type: snuffie
 ---
 
