@@ -1,7 +1,8 @@
+---
 layout: default
 title: Harry Snutter
 img: /img/harrysnutter.png
-img_thumb: /harrysnutter_thumb.png
+img_thumb: /img/harrysnutter_thumb.png
 type: snuffie
 ---
 

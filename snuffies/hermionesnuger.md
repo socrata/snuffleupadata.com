@@ -1,7 +1,8 @@
+---
 layout: default
 title: Hermione Snuger
 img: /img/hermionesnuger.png
-img_thumb: /hermionesnuger_thumb.png
+img_thumb: /img/hermionesnuger_thumb.png
 type: snuffie
 ---
 
