@@ -1,2 +1,19 @@
+@import './colors.scss';
 @import './lightbox.css';
 @import './screen.css';
+@import './snuffleupadata.css';
+@import 'bootstrap/scss/bootstrap.scss';
+
+// Overrides
+
+body {
+  background-color: $default-background-color;
+
+  .jumbotron {
+    background-color: $default-background-color;
+  }
+
+  header {
+    background-color: $default-background-color;
+  }
+}
