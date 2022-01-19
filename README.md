@@ -1,1 +1,1 @@
-![Snuffleupadata](https://raw.githubusercontent.com/chrismetcalf/snuffleupadata.com/gh-pages/img/snu.png)
+![Snuffleupadata](https://raw.githubusercontent.com/socrata/snuffleupadata.com/gh-pages/img/conductor.png)
